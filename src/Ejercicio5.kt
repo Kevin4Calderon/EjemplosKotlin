@@ -1,3 +1,4 @@
+//5.Calcular el sueldo de tres trabajadores solicitando los sig. Datos: días trabajados, pago por hora, pago por hora extra, validar que solo puede trabajar 5 horas extras a la semana.  DT, pago *hora, pago* hora_ext.
 fun main() {
     // Solicitar la cantidad de trabajadores
     print("¿Cuántos trabajadores deseas ingresar? ")
