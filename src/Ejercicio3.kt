@@ -1,3 +1,4 @@
+//3.Calcular el índice de masa corporal de una persona IMC= Peso KG/ Estatura^2
 fun main() {
     // Solicitar el peso en kilogramos
     print("Introduce tu peso en kilogramos: ")
