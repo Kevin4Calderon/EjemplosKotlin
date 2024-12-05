@@ -1,3 +1,4 @@
+//4.Validar la entrada a una aplicación mediante una clave: tesji123 si es correcta puedes ingresar si no que me diga que no puedo ingresar que verifique los datos.
 fun main() {
     // Clave correcta
     val claveCorrecta = "tesji123"
