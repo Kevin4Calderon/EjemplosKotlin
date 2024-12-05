@@ -1,3 +1,4 @@
+//Desarrollar un programa que pida el precio de un artículo, cantidad de artículos adquiridos y mostrar el total de la compra.
 fun main() {
     // Solicitar el precio del artículo
     print("Introduce el precio del artículo: ")
