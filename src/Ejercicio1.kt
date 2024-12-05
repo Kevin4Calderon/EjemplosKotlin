@@ -1,5 +1,4 @@
-//Ejercicio para encontrar el area del cuadrado
-
+//1.Hallar la superficie de un cuadrado solicitando el valor de un lado del mismo.
 fun main() {
     // Solicitar el valor del lado del cuadrado
     print("Introduce el valor del lado del cuadrado: ")
