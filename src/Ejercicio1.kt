@@ -1,3 +1,4 @@
+//Ejercicio para encontrar el area del cuadrado
 
 fun main() {
     // Solicitar el valor del lado del cuadrado
